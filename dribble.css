@@ -1,0 +1,14 @@
+.card-header{
+    background-color:gainsboro;
+    margin-left: 50px;
+    margin-bottom: 40%;
+}
+
+.card-body{
+    margin-left: 50px;
+    text-align: center;
+    color: white;
+}
+#btn{
+    background-color: blue;
+}
